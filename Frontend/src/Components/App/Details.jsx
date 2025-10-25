@@ -4,9 +4,13 @@ import downloads from '../../Assets/icon-downloads.png';
 import rating from '../../Assets/icon-ratings.png'; 
 import review from '../../Assets/icon-review.png';
 import BarCharts from './BarCharts.jsx';
+import AppError from '../Error/AppError.jsx';
 
 const Details = () => {
   const data = useLoaderData();
+  if (!data) {
+    return <AppError />;
+  }
   const { installedApps, setInstalledApps } = useOutletContext();
 
   const isInstalled = installedApps.some(app => app.id === data.id);
@@ -17,6 +21,7 @@ const Details = () => {
       setInstalledApps(updated);
     }
   };
+
 
   return (
     <>

@@ -1,10 +1,12 @@
 import React from 'react'
+import { useLoaderData } from 'react-router-dom'
 import Playstore from '../../Assets/Playstore.png'
 import Appstore from '../../Assets/Appstore.png'
 import Hero from '../Home/Hero.jsx'
 
 
 const Home = () => {
+  const data = useLoaderData();
   return (
     <div>
       <h1 className='text-[48px] font-bold text-center mt-[40px]'>We Build <br /> <span className='text-[#8957eb]'>Productive</span> App </h1>
@@ -23,7 +25,7 @@ const Home = () => {
           <p >App Store</p>
         </div>
       </div>
-      <Hero></Hero>
+      <Hero data = {data}></Hero>
     </div>
   )
 }

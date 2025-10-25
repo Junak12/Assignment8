@@ -1,8 +1,9 @@
 import React from 'react'
 
 import hero from '../../Assets/hero.png'
+import HomeData from './HomeData';
 
-const Hero = () => {
+const Hero = ({data}) => {
   return (
     <div >
        
@@ -29,6 +30,7 @@ const Hero = () => {
                 </div>
             </div>
         </div>
+        <HomeData data={data}></HomeData>
     </div>
   )
 }

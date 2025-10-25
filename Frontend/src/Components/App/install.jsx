@@ -12,6 +12,7 @@ const Install = () => {
     const updated = installedApps.filter(app => app.id !== appId);
     setInstalledApps(updated);
     localStorage.setItem('installedApps', JSON.stringify(updated));
+    
   };
 
   // Sort apps based on size
