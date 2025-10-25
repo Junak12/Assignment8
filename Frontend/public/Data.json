@@ -1,9 +1,9 @@
 [
   {
-    "image": "https://picsum.photos/800/600?random=1",
+    "id": 1,
+    "image": "https://picsum.photos/id/1011/800/600",
     "title": "TaskMaster Pro",
     "companyName": "TechNova Labs",
-    "id": 1,
     "description": "A productivity app that helps users manage daily tasks efficiently and stay organized.",
     "size": 48,
     "reviews": 1278,
@@ -18,10 +18,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=2",
+    "id": 2,
+    "image": "https://picsum.photos/id/1012/800/600",
     "title": "FitTrack",
     "companyName": "PulseWorks",
-    "id": 2,
     "description": "Track your workouts, set goals, and monitor your progress with FitTrack.",
     "size": 32,
     "reviews": 892,
@@ -36,10 +36,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=3",
+    "id": 3,
+    "image": "https://picsum.photos/id/1013/800/600",
     "title": "NoteWave",
     "companyName": "CreativeBits",
-    "id": 3,
     "description": "Capture ideas instantly with NoteWave – your smart digital notebook.",
     "size": 26,
     "reviews": 1456,
@@ -54,10 +54,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=4",
+    "id": 4,
+    "image": "https://picsum.photos/id/1014/800/600",
     "title": "PhotoSnap",
     "companyName": "PixelForge",
-    "id": 4,
     "description": "Edit, filter, and share your favorite photos with stunning visual effects.",
     "size": 85,
     "reviews": 3250,
@@ -72,10 +72,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=5",
+    "id": 5,
+    "image": "https://picsum.photos/id/1015/800/600",
     "title": "MindSpace",
     "companyName": "CalmNest",
-    "id": 5,
     "description": "Meditation and mindfulness made simple. Find peace in your daily routine.",
     "size": 40,
     "reviews": 1012,
@@ -90,10 +90,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=6",
+    "id": 6,
+    "image": "https://picsum.photos/id/1016/800/600",
     "title": "EduMate",
     "companyName": "SmartLearn",
-    "id": 6,
     "description": "Interactive lessons and quizzes for students across all subjects.",
     "size": 70,
     "reviews": 2100,
@@ -108,10 +108,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=7",
+    "id": 7,
+    "image": "https://picsum.photos/id/1017/800/600",
     "title": "TripMate",
     "companyName": "GlobeGo",
-    "id": 7,
     "description": "Plan, track, and share your travel experiences all in one place.",
     "size": 52,
     "reviews": 1750,
@@ -126,10 +126,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=8",
+    "id": 8,
+    "image": "https://picsum.photos/id/1018/800/600",
     "title": "Foodify",
     "companyName": "TasteLabs",
-    "id": 8,
     "description": "Discover new recipes, restaurants, and cuisines personalized to your taste.",
     "size": 55,
     "reviews": 1920,
@@ -144,10 +144,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=9",
+    "id": 9,
+    "image": "https://picsum.photos/id/1019/800/600",
     "title": "TuneFlow",
     "companyName": "MelodySoft",
-    "id": 9,
     "description": "Stream and download millions of songs across all genres.",
     "size": 80,
     "reviews": 5400,
@@ -162,10 +162,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=10",
+    "id": 10,
+    "image": "https://picsum.photos/id/1020/800/600",
     "title": "CodeCraft",
     "companyName": "DevElite",
-    "id": 10,
     "description": "Learn coding interactively with real-time challenges and projects.",
     "size": 62,
     "reviews": 2650,
@@ -180,10 +180,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=11",
+    "id": 11,
+    "image": "https://picsum.photos/id/1021/800/600",
     "title": "FinPilot",
     "companyName": "Wealthify",
-    "id": 11,
     "description": "Manage investments, budgets, and track your financial goals easily.",
     "size": 58,
     "reviews": 1820,
@@ -198,10 +198,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=12",
+    "id": 12,
+    "image": "https://picsum.photos/id/1022/800/600",
     "title": "ShopEase",
     "companyName": "Cartify",
-    "id": 12,
     "description": "Shop from thousands of brands and get exclusive daily deals.",
     "size": 77,
     "reviews": 3220,
@@ -216,10 +216,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=13",
+    "id": 13,
+    "image": "https://picsum.photos/id/1023/800/600",
     "title": "Readify",
     "companyName": "WordCraft",
-    "id": 13,
     "description": "Your digital library for eBooks, audiobooks, and magazines.",
     "size": 45,
     "reviews": 1980,
@@ -234,10 +234,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=14",
+    "id": 14,
+    "image": "https://picsum.photos/id/1024/800/600",
     "title": "DocuScan",
     "companyName": "ScanPro",
-    "id": 14,
     "description": "Scan documents instantly with your camera and save them as PDFs.",
     "size": 29,
     "reviews": 1140,
@@ -252,10 +252,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=15",
+    "id": 15,
+    "image": "https://picsum.photos/id/1025/800/600",
     "title": "WeatherCast",
     "companyName": "SkyLabs",
-    "id": 15,
     "description": "Accurate weather updates, radar maps, and severe alert notifications.",
     "size": 37,
     "reviews": 2390,
@@ -270,10 +270,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=16",
+    "id": 16,
+    "image": "https://picsum.photos/id/1026/800/600",
     "title": "HealthSync",
     "companyName": "MediCore",
-    "id": 16,
     "description": "Track your fitness, heart rate, and medical records securely.",
     "size": 63,
     "reviews": 2640,
@@ -288,10 +288,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=17",
+    "id": 17,
+    "image": "https://picsum.photos/id/1027/800/600",
     "title": "ChatConnect",
     "companyName": "TalkNet",
-    "id": 17,
     "description": "A secure messaging app with group chats, calls, and media sharing.",
     "size": 90,
     "reviews": 5120,
@@ -306,10 +306,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=18",
+    "id": 18,
+    "image": "https://picsum.photos/id/1028/800/600",
     "title": "GameZone",
     "companyName": "PlayCore",
-    "id": 18,
     "description": "Discover trending games, reviews, and community tournaments.",
     "size": 110,
     "reviews": 4370,
@@ -324,10 +324,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=19",
+    "id": 19,
+    "image": "https://picsum.photos/id/1029/800/600",
     "title": "SafeVault",
     "companyName": "LockSecure",
-    "id": 19,
     "description": "Protect your passwords, notes, and files with encrypted cloud storage.",
     "size": 25,
     "reviews": 980,
@@ -342,10 +342,10 @@
     ]
   },
   {
-    "image": "https://picsum.photos/800/600?random=20",
+    "id": 20,
+    "image": "https://picsum.photos/id/1030/800/600",
     "title": "StyleHub",
     "companyName": "TrendySoft",
-    "id": 20,
     "description": "Browse fashion collections, shop trending outfits, and earn rewards.",
     "size": 73,
     "reviews": 2460,
